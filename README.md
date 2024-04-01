@@ -1,6 +1,8 @@
 # UPDATES
 Update cosmos exporter and node exporter version
-Update grafana dashboard 
+```
+Update grafana dashboard
+``` 
 # Instructions on how to set up monitoring stack for your cosmos validator
 
 ## Prerequisites
